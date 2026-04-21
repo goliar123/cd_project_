@@ -1,0 +1,6 @@
+{
+  "name": "VisuCode VM",
+  "description": "A visual interpreter and virtual machine for a simplified C-like language, featuring step-by-step compiler phases (Lexer, Parser, VM) to help visualize parsing and error recovery under the hood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
